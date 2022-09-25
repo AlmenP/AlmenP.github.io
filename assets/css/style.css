@@ -1,0 +1,39 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navbar img {
+    width: 200px;
+}
+#Hero-Section {
+    background-image: url("../img/herosection.png");
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: left;
+  }
+
+  p img {
+    width: 350px;
+    border-radius: 50%;
+  }
+
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 25px;
+  }
+
+  .row {
+    border:2px
+  }
+
+  .row p {
+    text-align: justify;
+  }
+
+  #plataformas img {
+    width: 60px;
+  }
